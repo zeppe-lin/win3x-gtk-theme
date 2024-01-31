@@ -1,0 +1,34 @@
+/* XPM */
+static char *top_right_active[] = {
+/* columns rows colors chars-per-pixel */
+"23 23 5 1 ",
+"  c black",
+". c #646464",
+"X c #408080",
+"o c #C0C0C0",
+"O c white",
+/* pixels */
+"ooooooooooooooooooooooo",
+"OOOOOOOOOOOOOOOOOOOOOO ",
+"ooooooooooooooooooooo. ",
+"ooooooooooooooooooooo. ",
+"XXXXXXXXXXXXXXXXXXXoo. ",
+"XXXXXXXXXXXXXXXXXXXoo. ",
+"XXXXXXXXXXXXXXXXXXXoo. ",
+"XXXXXXXXXXXXXXXXXXXoo. ",
+"XXXXXXXXXXXXXXXXXXXoo. ",
+"XXXXXXXXXXXXXXXXXXXoo. ",
+"XXXXXXXXXXXXXXXXXXXoo. ",
+"XXXXXXXXXXXXXXXXXXXoo. ",
+"XXXXXXXXXXXXXXXXXXXoo. ",
+"XXXXXXXXXXXXXXXXXXXoo. ",
+"XXXXXXXXXXXXXXXXXXXoo. ",
+"XXXXXXXXXXXXXXXXXXXoo. ",
+"XXXXXXXXXXXXXXXXXXXoo. ",
+"XXXXXXXXXXXXXXXXXXXoo. ",
+"XXXXXXXXXXXXXXXXXXXoo. ",
+"XXXXXXXXXXXXXXXXXXXoo. ",
+"XXXXXXXXXXXXXXXXXXXoo. ",
+"XXXXXXXXXXXXXXXXXXXoo. ",
+"XXXXXXXXXXXXXXXXXXXoo. "
+};
