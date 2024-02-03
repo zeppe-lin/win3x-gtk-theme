@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Win3x Sol
+Comment=Windows 3.11 look and feel with Solarized colors
+Version=v1.0.1
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Win3x Sol
+MetacityTheme=Win3x Sol
+ButtonLayout=:minimize,maximize
