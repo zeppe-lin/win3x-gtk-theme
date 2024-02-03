@@ -1,11 +1,11 @@
 [Desktop Entry]
 Type=X-GNOME-Metatheme
-Name=Windows3x Cyan
-Comment=Windows 3.11 theme with cyan colors
+Name=Win3x Win95 Cyan
+Comment=Windows 3.11 look and feel with cyan colors
 Version=v1.0.1
 Encoding=UTF-8
 
 [X-GNOME-Metatheme]
-GtkTheme=Windows3x Cyan
-MetacityTheme=Windows3x Cyan
+GtkTheme=Win3x Win95 Cyan
+MetacityTheme=Win3x Win95 Cyan
 ButtonLayout=:minimize,maximize
