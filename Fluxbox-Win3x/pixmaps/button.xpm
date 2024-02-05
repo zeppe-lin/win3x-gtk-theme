@@ -1,0 +1,34 @@
+/* XPM */
+static char *button[] = {
+/* columns rows colors chars-per-pixel */
+"22 22 6 1 ",
+"  c None",
+". c black",
+"X c #808080",
+"o c #8E8E8E",
+"O c #C0C0C0",
+"+ c white",
+/* pixels */
+"o....................o",
+".+++++++++++++++++++X.",
+".+OOOOOOOOOOOOOOOOOXX.",
+".+OOOOOOOOOOOOOOOOOXX.",
+".+OOOOOOOOOOOOOOOOOXX.",
+".+OOOOOOOOOOOOOOOOOXX.",
+".+OOOOOOOOOOOOOOOOOXX.",
+".+OOOOOOOOOOOOOOOOOXX.",
+".+OOOOOOOOOOOOOOOOOXX.",
+".+OOOOOOOOOOOOOOOOOXX.",
+".+OOOOOOOOOOOOOOOOOXX.",
+".+OOOOOOOOOOOOOOOOOXX.",
+".+OOOOOOOOOOOOOOOOOXX.",
+".+OOOOOOOOOOOOOOOOOXX.",
+".+OOOOOOOOOOOOOOOOOXX.",
+".+OOOOOOOOOOOOOOOOOXX.",
+".+OOOOOOOOOOOOOOOOOXX.",
+".+OOOOOOOOOOOOOOOOOXX.",
+".+OOOOOOOOOOOOOOOOOXX.",
+".+XXXXXXXXXXXXXXXXXXX.",
+".XXXXXXXXXXXXXXXXXXXX.",
+"o....................o"
+};
