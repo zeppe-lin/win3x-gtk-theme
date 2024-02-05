@@ -16,8 +16,12 @@ The original sources can be downloaded from:
 
 PREVIEW
 -------
-**TODO**
-![](screenshot.png)
+- **Fluxbox-Win3x**:
+![](screenshots/Fluxbox-Win3x.png)
+- **Win3x-Sol**:
+![](screenshots/Win3x-Sol.png)
+- **Win3x-Win95-Cyan**:
+![](screenshots/Win3x-Win95-Cyan.png)
 
 
 REQUIREMENTS
