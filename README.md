@@ -4,14 +4,19 @@ This directory contains win3x-gtk-theme, a GTK2/3 theme which
 emulates the Windows 3.x look and feel.  Color scheme is from
 the Windows 3.1 theme called "Arizona".
 
-This distribution is a fork of matthewmx86's "Win3xE Win95" theme,
-adjusted to dark cyan colorscheme, with small GTK3 fix: light tooltip
-background makes them unreadable on Java apps.
+This distribution was initial a fork of matthewmx86's "Win3xE Win95" theme,
+adjusted to dark cyan colorscheme, with small GTK3 fix:
+light tooltip background makes it unreadable on Java apps.
+Later was added Win3x-Sol, the mix of "Win3xE Seven" and "Win3x ThreeZero"
+themes.  Also was added Fluxbox-Win3x (style for Fluxbox window manager),
+the hardly modified version of nicepics13's win311 theme.
+
 See git log for further differences.
 
 The original sources can be downloaded from:
 1. https://www.pling.com/p/1309837/ (GPLv3+, used there)
 2. https://github.com/matthewmx86/Win3xE (BSD-2-Clause version found on GH)
+3. https://www.box-look.org/p/1571083
 
 
 PREVIEW
