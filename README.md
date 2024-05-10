@@ -15,9 +15,9 @@ of nicepics13's win311 theme.
 See git log for further differences.
 
 The original sources can be downloaded from:
-1. https://www.pling.com/p/1309837/ (GPLv3+, used there)
-2. https://github.com/matthewmx86/Win3xE (BSD-2-Clause version found on GH)
-3. https://www.box-look.org/p/1571083
+  1. https://www.pling.com/p/1309837/ (GPLv3+, used there)
+  2. https://github.com/matthewmx86/Win3xE (BSD-2-Clause version found on GH)
+  3. https://www.box-look.org/p/1571083
 
 
 PREVIEW
