@@ -1,9 +1,9 @@
 OVERVIEW
 ========
 
-This directory contains win3x-gtk-theme, a GTK2/3 theme which emulates
-the Windows 3.x look and feel.  Color scheme is from the Windows 3.1
-theme called "Arizona".
+This repository contains win3x-gtk-theme, a GTK2/3 theme which
+emulates the Windows 3.x look and feel.  Color scheme is from the
+Windows 3.1 theme called "Arizona".
 
 This distribution was initial a fork of matthewmx86's "Win3xE Win95"
 theme, adjusted to dark cyan colorscheme, with small GTK3 fix: light
